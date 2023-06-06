@@ -1,5 +1,4 @@
+catcat
+hello
+hi
 hi there
-hello there
-cat a.txt
-hi
-hi
